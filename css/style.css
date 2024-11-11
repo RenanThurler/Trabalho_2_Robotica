@@ -1,0 +1,8 @@
+.interface{
+    display: inline;
+    justify-content:center ;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
